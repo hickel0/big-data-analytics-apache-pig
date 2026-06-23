@@ -1,0 +1,28 @@
+Final Recommended Project Goal
+⭐ “Hybrid Matchup Recommender System for Basketball Teams Using Spark SQL, PySpark ML, and GraphFrames”
+Full Goal Statement:
+
+This project aims to build a big-data-powered decision support system that analyses historical game statistics to recommend favourable opponents and identify similar teams. Using Spark SQL for scalable preprocessing, PySpark ML (ALS + CB feature modelling) for collaborative and content-based recommendation, and GraphFrames for graph analytics, the system provides insight into matchup difficulty, opponent similarity, and team performance patterns across seasons.
+
+Why this goal is perfect:
+✔ Matches exemplar structure
+
+Like Book Recommender System → yours is Matchup Recommender System.
+
+Like DCU collaboration graph → yours uses GraphFrames for game-interaction graphs.
+
+✔ Uses the full assignment tech stack
+
+Hive/Spark SQL (cleaning)
+
+PySpark ML (ALS, hybrid)
+
+GraphFrames (graph analysis)
+
+✔ Works with your dataset
+
+Your features (PTS, REB, AST, FG%, +/- …) feed directly into CB profiles and rating derivation for CF.
+
+✔ Strong narrative for the report
+
+Motivation → Data → Analytics → Results → Related work → Challenges → Roles → Peer feedback.
